@@ -9,10 +9,10 @@ Markets switch between quiet and violent periods. A Hidden Markov Model (HMM) ca
 
 | Week | Notebook | Topics |
 |---|---|---|
-| 1 | [`01_data_and_returns.ipynb`](01_data_and_returns.ipynb) | Python + pandas, market data, returns, volatility, drawdowns |
-| 2 | [`02_hmm_regimes.ipynb`](02_hmm_regimes.ipynb) | Hidden Markov Models, transition matrices, lookahead bias, model selection (BIC) |
-| 3 | [`03_nn_regime_prediction.ipynb`](03_nn_regime_prediction.ipynb) | PyTorch, MLPs, time-series train/val/test splits, class imbalance, baselines |
-| 4 | [`04_backtest_portfolio.ipynb`](04_backtest_portfolio.ipynb) | Regime-based allocation, backtesting without lookahead, Sharpe / Sortino / drawdown / Calmar |
+| 1 | [`01_data_and_returns.ipynb`](Week1.py) | Python + pandas, market data, returns, volatility, drawdowns |
+| 2 | [`02_hmm_regimes.ipynb`]() | Hidden Markov Models, transition matrices, lookahead bias, model selection (BIC) |
+| 3 | [`03_nn_regime_prediction.ipynb`]() | PyTorch, MLPs, time-series train/val/test splits, class imbalance, baselines |
+| 4 | [`04_backtest_portfolio.ipynb`]() | Regime-based allocation, backtesting without lookahead, Sharpe / Sortino / drawdown / Calmar |
 
 .
 
